@@ -23,3 +23,5 @@ https://github.com/pkellner/nextjs13-dev-vs-build-bug
 
 This can be run in codesandbox here: https://codesandbox.io/s/github/pkellner/nextjs13-dev-vs-build-bug
 (must select "use new codesandbox interface")
+
+tested with 13.2.5-canary.16 also
